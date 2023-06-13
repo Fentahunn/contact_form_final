@@ -565,3 +565,13 @@ footer {
   text-align: center;
   margin-bottom: 0;
 }
+
+.form-contact > ul {
+  width: 100%;
+  list-style: none;
+}
+
+.form-ul {
+  padding: 0;
+  margin: 0;
+}
