@@ -547,3 +547,21 @@ footer {
   border-top-left-radius: 70px;
   background-position: right;
 }
+
+.form-contact {
+  display: flex;
+  flex-direction: column;
+  row-gap: 27px;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.head-contact {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
