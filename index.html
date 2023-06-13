@@ -274,7 +274,7 @@
 	</section>
 
 	<!-- add contact form -->
-
+  
 	<footer class="contactme" id="contactme">
 		<h4 class="head-contact">Contact me</h4>
 		<p>
@@ -282,6 +282,25 @@
 			that you need built or a project that needs coding. I’d love to help
 			with it!
 		</p>
+    <form class="form-contact" action="https://formspree.io/f/xwkjdrpo" method="post">
+				<ul class="form-ul">
+					<li>
+						<input type="text" name="user_name" id="user_name" placeholder="  Full name" maxlength="30"
+							class="input-form" required />
+					</li>
+					<li>
+						<input type="email" name="user_email" id="user_email" placeholder="  Email address" required
+							class="input-form" required />
+					</li>
+					<li>
+						<textarea required name="user_message" id="user_message" maxlength="500"
+							placeholder="  Write your text here" class="input-form"></textarea>
+					</li>
+					<li>
+						<button type="submit" class="btn-submit">Get In touch</button>
+					</li>
+				</ul>
+			</form>
 
 	</footer>
 </body>
