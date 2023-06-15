@@ -63,7 +63,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link (not yet deployed)](#)
+- coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,9 +125,10 @@ To run the project, open the project by launching the Live Server plugging in vi
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Fentahun Agmas**
-
+👤 **henry cadenaec**
 - GitHub: [@githubFentahun](https://github.com/Fentahunn)
 - Twitter: [@twitterFentahun](https://twitter.com/FentahunAgmas)
+- Github: [@githubhenrycadenaec](https://github.com/henrycadenaec)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +173,7 @@ I am greateful for microvese community!
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
-- **[What is Mobile-first?]**
+- **What is Mobile-first?**
 
   - [The objective is to prioritize the mobile user experience by ensuring that CSS is designed to cater to smaller devices without the need to sift through styles intended for desktop devices.]  
 
