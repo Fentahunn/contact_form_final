@@ -135,7 +135,7 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Responsive website for different screen sizes like desktop or tablet .**
+- **Responsive website for different screen sizes like tablet .**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
