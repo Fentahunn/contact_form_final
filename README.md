@@ -92,7 +92,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder(your working machine)
-  git clone git@github.com:Fentahunn/finish_mobile_version.git
+  git clone git@github.com:Fentahunn/contact_form_final.git
 
 ```
 
@@ -125,10 +125,8 @@ To run the project, open the project by launching the Live Server plugging in vi
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Fentahun Agmas**
-👤 **henry cadenaec**
 - GitHub: [@githubFentahun](https://github.com/Fentahunn)
 - Twitter: [@twitterFentahun](https://twitter.com/FentahunAgmas)
-- Github: [@githubhenrycadenaec](https://github.com/henrycadenaec)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +135,7 @@ To run the project, open the project by launching the Live Server plugging in vi
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Responsive website for different screen sizes like desktop or tablet .**
+- **Responsive website for different screen sizes like tablet .**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,9 +171,16 @@ I am greateful for microvese community!
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
-- **What is Mobile-first?**
+- **Portfolio: desktop version**
 
-  - [The objective is to prioritize the mobile user experience by ensuring that CSS is designed to cater to smaller devices without the need to sift through styles intended for desktop devices.]  
+  > This is the Desktop version html and css project of the second block in which knowledge of Figma, basic HTML semants, CSS Grid, media query and Flexbox combined are integrated.
+> This project is part of my Microverse exercises, where we learn how to build a personal portifolio starting from mobile version in a professional manners.
+> This is built in a simple, visual , thorough and good looking way.
+> This project require some basic coding understandings like; CSS and HTML.
+> The goal here is to understand how to create UIs adaptable to different screen sizes using media queries and to understand how to parse a Figma design to create a UI.
+> It is built using CSS Grid in the main container that contains all of the cards and Flexbox to lay out an individual card.
+> Media query is used to make the website responsive(RWD).
+> I didn't implement the detail modal window that requires JavaScript. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
